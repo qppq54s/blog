@@ -9,3 +9,4 @@
 6. [JavaScript判断变量是数组或者对象，以及其原理](https://github.com/qppq54s/blog/issues/6)
 7. [JavaScript理解call、apply](https://github.com/qppq54s/blog/issues/7)
 8. [Centering in CSS: A Complete Guide（css居中方案完全指南）](https://github.com/qppq54s/blog/issues/8)
+9. [JavaScript中深拷贝和浅拷贝](https://github.com/qppq54s/blog/issues/9)
