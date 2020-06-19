@@ -10,3 +10,4 @@
 7. [JavaScript理解call、apply](https://github.com/qppq54s/blog/issues/7)
 8. [Centering in CSS: A Complete Guide（css居中方案完全指南）](https://github.com/qppq54s/blog/issues/8)
 9. [JavaScript中深拷贝和浅拷贝](https://github.com/qppq54s/blog/issues/9)
+10. [项目包大小优化记录 bn.js ellptic.js](https://github.com/qppq54s/blog/issues/10)
