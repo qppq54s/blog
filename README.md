@@ -12,4 +12,5 @@
 9. [JavaScript中深拷贝和浅拷贝](https://github.com/qppq54s/blog/issues/9)
 10. [项目包大小优化记录 bn.js ellptic.js](https://github.com/qppq54s/blog/issues/10)
 11. [ReactDOM render方法原理解析，react是怎么把元素渲染到DOM节点上的](https://github.com/qppq54s/blog/issues/11)
-11. [rax开发踩坑记录](https://github.com/qppq54s/blog/issues/12)
+12. [rax开发踩坑记录](https://github.com/qppq54s/blog/issues/12)
+13. [限制h5唤起的ios键盘，只能输入英文和数字，实现一个输入组件](https://github.com/qppq54s/blog/issues/13)
