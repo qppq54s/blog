@@ -15,3 +15,4 @@
 12. [rax开发踩坑记录](https://github.com/qppq54s/blog/issues/12)
 13. [限制h5唤起的ios键盘，只能输入英文和数字，实现一个输入组件](https://github.com/qppq54s/blog/issues/13)
 14. [window10 安装hadoop和环境变量配置](https://github.com/qppq54s/blog/issues/14)
+15. [window10 安装hadoop和环境变量配置](https://github.com/qppq54s/blog/issues/15)
